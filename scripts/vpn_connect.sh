@@ -61,6 +61,7 @@ iface vmbr1 inet static
         post-up   iptables -t nat -A POSTROUTING -s '\''10.20.30.0/24'\'' -o vmbr0 -j MASQUERADE
         post-down iptables -t nat -D POSTROUTING -s '\''10.20.30.0/24'\'' -o vmbr0 -j MASQUERADE
 " >> /etc/network/interfaces'
+
     break
   fi
 done
