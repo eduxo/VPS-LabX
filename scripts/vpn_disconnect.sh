@@ -54,7 +54,8 @@ sudo zerotier-cli leave c075fcef7ece6a93
 sudo systemctl restart zerotier-one.service
 sleep 3
 
-echo -e '\e[1;92mHotovo, system bude restartovan!\e[0m'
+echo -e '\n\e[0;92mRestartuji sit\e[0m'
 sleep 3
-sudo reboot
+sudo systemctl restart networking
+echo -e '\e[1;92mHotovo!\e[0m'
 
