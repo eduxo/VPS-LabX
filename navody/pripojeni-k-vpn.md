@@ -1,2 +1,2 @@
-# ☁ Připojení k VPN
+# Připojení k VPN
 

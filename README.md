@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/servers2.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # VPS-LabX
 
 <figure><img src=".gitbook/assets/eduxo_VPS-LabX_NAT.drawio.png" alt=""><figcaption></figcaption></figure>
