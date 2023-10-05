@@ -25,4 +25,4 @@ echo -e '\n\e[0;92mPripojuji k VPN siti VPS-LabX\e[0m'
 sudo zerotier-cli join c075fcef7ece6a93
 sudo zerotier-cli set c075fcef7ece6a93 allowDNS=1
 sleep 3
-echo -e '\e[1;92mHotovo!\e[0m'
+echo -e '\n\e[1;92mHotovo!\e[0m'
