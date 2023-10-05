@@ -6,4 +6,4 @@ echo -e '\n\e[0;92mOdpojuji od VPN site VPS-LabX\e[0m'
 sudo zerotier-cli leave c075fcef7ece6a93
 sudo systemctl restart zerotier-one.service
 sleep 3
-echo -e '\e[1;92mHotovo!\e[0m'
+echo -e '\n\e[1;92mHotovo!\e[0m'
