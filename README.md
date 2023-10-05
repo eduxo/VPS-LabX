@@ -25,7 +25,7 @@ layout:
 
 Tato laboratoř je založena na otevřených nástrojích a nekomerčním přístupu k vzdělávání a přichází jako nástupce původního "**eduxo Workstation**" .
 
-Přináší s sebou celou řadu inovací a ve spojení s "[**eduxo Studovnou**](https://eduxo.cz/eduxo-studovna/)" , tvoří komplexní vzdělávací ekosystém pro studenty a nadšence v oblasti informačních technologií. Není jenom výukovým nástrojem, ale i praktickým cvičební prostorem, kde můžete zkoumat, experimentovat a zdokonalovat své IT dovednosti.
+Přináší s sebou celou řadu inovací a ve spojení s "[**eduxo Studovnou**](https://studovna.eduxo.cz)" , tvoří komplexní vzdělávací ekosystém pro studenty a nadšence v oblasti informačních technologií. Není jenom výukovým nástrojem, ale i praktickým cvičební prostorem, kde můžete zkoumat, experimentovat a zdokonalovat své IT dovednosti.
 
 ## Co je eduxo VPS-LabX?
 
@@ -38,7 +38,7 @@ Jako základ pro "**eduxo VPS-LabX**" posloužil systém [Proxmox](https://www.p
 1. **Vytváření VPS (Virtual Private Server)**: Snadno a rychle vytvářejte virtuální stroje s různými "linux-based" operačními systémy a konfiguracemi podle svých potřeb. To znamená, že máte plnou kontrolu nad tím, jaké prostředí si vytvoříte pro svá cvičení a experimenty.
 2. **Experimenty a cvičení**: Jeden z hlavních důvodů, proč zvolit "**eduxo VPS-LabX**" , je možnost provádět cvičení a experimenty ve virtuálním prostředí. Bez rizika ztráty dat nebo negativního vlivu na reálný provoz mohou studenti testovat různé scénáře a získat tak cenné praktické zkušenosti.
 3. **Flexibilita a bezpečnost**: "**eduxo VPS-LabX**" poskytuje flexibilitu vytvářet a spravovat virtuální stroje podle svých potřeb, zatímco zajišťuje izolaci a bezpečnost. To znamená, že můžete experimentovat a testovat různé konfigurace a přístupy bez obav o bezpečnostní rizika.
-4. **Výukové materiály**: Pro studenty jsou v [**eduxo Studovně**](https://eduxo.cz/eduxo-studovna/) k dispozici výukové materiály a cvičení, které jim pomohou lépe porozumět různým IT tématům. Díky nim mohou lépe pochopit, jak fungují informační sítě, operační systémy a kybernetická bezpečnost.
+4. **Výukové materiály**: Pro studenty jsou v [**eduxo Studovně**](https://studovna.eduxo.cz) k dispozici výukové materiály a cvičení, které jim pomohou lépe porozumět různým IT tématům. Díky nim mohou lépe pochopit, jak fungují informační sítě, operační systémy a kybernetická bezpečnost.
 5. **Neustálý rozvoj**: "**eduxo VPS-LabX**" bude průběžně aktualizována a rozvíjena tak, aby studentům poskytla další nástroje a technologie, které jim pomohou lépe porozumět různým IT konceptům a rychleji získávat potřebné dovednosti.
 
 Celkově lze říci, že "**eduxo VPS-LabX**" je nástrojem, který studentům umožňuje stát se aktivními účastníky svého vlastního vzdělávání v oblasti informačních technologií a kybernetické bezpečnosti.
