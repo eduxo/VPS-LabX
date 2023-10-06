@@ -67,6 +67,6 @@ iface vmbr1 inet static
   fi
 done
 
-echo -e '\n\e[0;92mHotovo. Restartuji systemu.\e[0m'
+echo -e '\e[1;92mHotovo, system bude restartovan!\e[0m'
 sleep 3
 sudo reboot
