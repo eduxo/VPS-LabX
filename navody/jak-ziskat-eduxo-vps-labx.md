@@ -2,8 +2,6 @@
 
 Pokud máte zájem o „**eduxo VPS-LabX**“ , můžete si jej snadno stáhnout jako sobory OVA pro import do VirtualBoxu. Laboratoř je rozdělena do dvou virtuálních stanic (VM): hlavního „**eduxo\_VPS-LabX.ova**“ a doplňkového „**eduxo\_Firewall.ova**“ .
 
-[https://drive.google.com/drive/folders/1A\_opDISoGS34Qv2K3pXFpJlER598i9vg](https://drive.google.com/drive/folders/1A\_opDISoGS34Qv2K3pXFpJlER598i9vg)
-
 ## eduxo VPS-LabX + Firewall
 
 Při importu obou těchto VM není třeba provádět žádné změny v nastavení VirtualBoxu. Pro správnou funkčnost je však nutné mít vždy zapnuté obě VM. Při použití obou VM získáte možnost propojení s vaším hostitelským počítačem. Virtuální stanice „**eduxo\_Firewall**“ je navíc využívána pro některá cvičení.
@@ -32,6 +30,4 @@ Toto nastavení je potřeba upravit následovně.
 
 Máte-li nějaké dotazy nebo potřebujete pomoc s instalací a používáním, neváhejte se obrátit přímo na mě, nebo na naši komunitu a sdílet své zkušenosti s ostatními studenty.
 
-## Stáhnout VPS-LabX
-
-{% embed url="https://drive.google.com/drive/folders/1A_opDISoGS34Qv2K3pXFpJlER598i9vg" %}
+## Stáhnout VPS-LabVPS-LabX
