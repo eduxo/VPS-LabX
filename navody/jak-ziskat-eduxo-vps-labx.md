@@ -30,6 +30,4 @@ Toto nastavení je potřeba upravit následovně.
 
 Máte-li nějaké dotazy nebo potřebujete pomoc s instalací a používáním, neváhejte se obrátit přímo na mě, nebo na naši komunitu a sdílet své zkušenosti s ostatními studenty.
 
-## Stáhnout VPS-LabX
-
-{% embed url="https://drive.google.com/drive/folders/1A_opDISoGS34Qv2K3pXFpJlER598i9vg" %}
+## Stáhnout VPS-LabVPS-LabX
