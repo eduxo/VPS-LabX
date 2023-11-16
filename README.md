@@ -16,7 +16,7 @@ layout:
   pagination:
     visible: true
 ---
-
+---
 # VPS-LabX
 
 <figure><img src=".gitbook/assets/eduxo_VPS-LabX_NAT.drawio.png" alt=""><figcaption></figcaption></figure>
@@ -27,12 +27,14 @@ Tato laboratoř je založena na otevřených nástrojích a nekomerčním přís
 
 Přináší s sebou celou řadu inovací a ve spojení s "[**eduxo Studovnou**](https://studovna.eduxo.cz)" , tvoří komplexní vzdělávací ekosystém pro studenty a nadšence v oblasti informačních technologií. Není jenom výukovým nástrojem, ale i praktickým cvičební prostorem, kde můžete zkoumat, experimentovat a zdokonalovat své IT dovednosti.
 
+---
 ## Co je eduxo VPS-LabX?
 
 Jedná se o multifunkční virtuální laboratoř, která umožňuje studentům provádět praktická cvičení a experimenty v rámci informačních sítí, operačních systémů a kybernetické bezpečnosti. Tato platforma je postavena zejména na otevřených nástrojích a je dostupná zdarma, což z ní činí ideálního partnera pro studenty, kteří chtějí zlepšit své IT dovednosti.
 
 Jako základ pro "**eduxo VPS-LabX**" posloužil systém [Proxmox](https://www.proxmox.com/en/) postavený na stabilní linuxové distribuci [Debian](https://www.debian.org/). Uživatelsky přívětivé grafické rozhraní [Gnome](https://www.gnome.org/) pak činí práci se systémem komfortnější. V rámci předinstalovaných aplikací lze mimo jiné najít i program Packet Tracer od společnosti Cisco. Pro použití tohoto nástroje je potřeba mít účet v [NetAcad.com](https://www.netacad.com/).
 
+---
 ## Co eduxo VPS-LabX nabízí?
 
 1. **Vytváření VPS (Virtual Private Server)**: Snadno a rychle vytvářejte virtuální stroje s různými "linux-based" operačními systémy a konfiguracemi podle svých potřeb. To znamená, že máte plnou kontrolu nad tím, jaké prostředí si vytvoříte pro svá cvičení a experimenty.
