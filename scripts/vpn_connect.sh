@@ -1,5 +1,5 @@
 #!/bin/bash
-# Tento skript slouzi k pripojeni stanice eduxo VPS-LabX k ZeroTier VPN siti VPS-LabX
+# Tento skript slouzi k pripojeni stanice eduxo VPS-LabX k ZeroTier VPN siti
 
 # Test internet connection
 function check_internet() {
@@ -18,11 +18,16 @@ check_internet
 if ! dpkg --get-selections | grep -qw zerotier;then
     echo -e '\n\e[0;92mZeroTier neni nainstalovan. Instaluji ZeroTier.\e[0m'
     curl -s https://install.zerotier.com | sudo bash
+    echo -e '\e[1;92mInstalace ZeroTier je kompletni.\e[0m'
+    sleep 3
 fi
 
 # Pripojeni do VPN site VPS-LabX
+echo -e '\n\e[0;92mZadejte ID VPN, ke ktere se chcete připojit:\e[0m'
+read NETID
+
 echo -e '\n\e[0;92mPripojuji k VPN siti VPS-LabX\e[0m'
-sudo zerotier-cli join c075fcef7ece6a93
-sudo zerotier-cli set c075fcef7ece6a93 allowDNS=1
+sudo zerotier-cli join $NETID
+sudo zerotier-cli set $NETID allowDNS=1
 sleep 3
 echo -e '\n\e[1;92mHotovo!\e[0m'
