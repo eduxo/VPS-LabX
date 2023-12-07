@@ -55,4 +55,4 @@ Při importu VM není třeba provádět žádné změny v nastavení VirtualBoxu
 
 Máte-li nějaké dotazy nebo potřebujete pomoc s instalací a používáním, neváhejte se obrátit přímo na mě, nebo na naši komunitu a sdílet své zkušenosti s ostatními studenty.
 
-Stáhnout VPS-LabVPS-LabX
+[**Stáhnout VPS-LabVPS-LabX**](https://drive.google.com/drive/folders/1A_opDISoGS34Qv2K3pXFpJlER598i9vg?usp=drive_link)
