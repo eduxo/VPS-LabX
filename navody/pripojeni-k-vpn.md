@@ -1,2 +1,0 @@
-# Připojení k VPN
-
