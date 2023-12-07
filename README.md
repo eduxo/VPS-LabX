@@ -1,20 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # VPS-LabX
 
-<figure><img src=".gitbook/assets/eduxo_VPS-LabX.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="files/eduxo_VPS-LabX.drawio.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
