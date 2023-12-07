@@ -22,11 +22,11 @@ if ! dpkg --get-selections | grep -qw zerotier;then
     sleep 3
 fi
 
-# Pripojeni do VPN site VPS-LabX
-echo -e '\n\e[0;92mZadejte ID VPN, ke ktere se chcete připojit:\e[0m'
+# Pripojeni do site VPN
+echo -e '\n\e[0;92mZadejte ID VPN, ke ktere se chcete pripojit:\e[0m'
 read NETID
 
-echo -e '\n\e[0;92mPripojuji k VPN siti VPS-LabX\e[0m'
+echo -e '\n\e[0;92mPripojuji k siti VPN.\e[0m'
 sudo zerotier-cli join $NETID
 sudo zerotier-cli set $NETID allowDNS=1
 sleep 3
