@@ -2,7 +2,7 @@
 
 **Přenositelné virtuální prostředí, ve kterém je možné vytvářet, spouštět a sdílet různé úlohy a cvičení.**
 
-<figure><img src="assets/eduxo_VPS-LabX.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="eduxo_VPS-LabX.drawio.png" alt=""><figcaption>...</figcaption></figure>
 
 ***
 
@@ -24,22 +24,18 @@ Pokud máte zájem o **VPS-LabX**, lze si ji snadno připravit v několika málo
 
 #### 1. krok: Stažení a instalace Proxmox VE
 
-{% hint style="info" %}
 Proxmox VE (Virtual Environment) je open-source nástroj pro virtualizaci serverů. To znamená, že umožňuje spouštět na jednom fyzickém serveru více virtuálních serverů, což šetří hardware a energii. Proxmox VE podporuje dvě virtualizační technologie:
 
 * KVM (Kernel-based Virtual Machine) pro virtualizaci celých operačních systémů
 * LXC (Linux Containers) pro virtualizaci aplikací
 
 Proxmox VE má jednoduché webové rozhraní, které umožňuje správu virtuálních serverů, kontejnerů, úložiště a sítě. Může být také použit k vytváření clusterů serverů pro vysokou dostupnost.
-{% endhint %}
 
 Tento krok: stažení a instalaci systému Proxmox, necháme zcela na vás. Následují pouze naše doporučení k instalaci, která zajistí optimální funkčnost systému.
 
 **Stažení ...**
 
-Operační systém Proxmox VE si můžete stáhnout z odkazu:
-
-{% embed url="https://www.proxmox.com/en/downloads/proxmox-virtual-environment" %}
+Operační systém Proxmox VE si můžete stáhnout z odkazu: https://www.proxmox.com/en/downloads/proxmox-virtual-environment
 
 **Instalace ...**
 
@@ -114,14 +110,10 @@ Nyní můžete nastavit stanici dle vlastních preferencí.
 
 ### Stažení VM pro VirtualBox
 
-{% hint style="info" %}
 Pozor, předpřipravená stanice nemusí být vždy aktuální.
-{% endhint %}
 
 Jednou z možností je stáhnout si **VPS-LabX** jako sobor OVA pro import do VirtualBoxu.
 
 Při importu VM není třeba provádět žádné změny v nastavení VirtualBoxu.
 
 [**Stáhnout VPS-LabX**](https://drive.google.com/drive/folders/1A_opDISoGS34Qv2K3pXFpJlER598i9vg?usp=drive_link)
-
-&#x20;
