@@ -2,7 +2,7 @@
 
 **Přenositelné virtuální prostředí, ve kterém je možné vytvářet, spouštět a sdílet různé úlohy a cvičení.**
 
-<figure><img src="eduxo_VPS-LabX.drawio.png" alt=""><figcaption>...</figcaption></figure>
+<figure><img src="eduxo_VPS-LabX.drawio.png" alt=""></figure>
 
 ***
 
