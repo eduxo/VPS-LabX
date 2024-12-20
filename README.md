@@ -116,4 +116,4 @@ Jednou z možností je stáhnout si **VPS-LabX** jako sobor OVA pro import do Vi
 
 Při importu VM není třeba provádět žádné změny v nastavení VirtualBoxu.
 
-[**Stáhnout VPS-LabX**](https://drive.google.com/drive/folders/1A_opDISoGS34Qv2K3pXFpJlER598i9vg?usp=drive_link)
+[**Stáhnout VPS-LabX**](https://drive.google.com/file/d/1H20of2emOpHCiyNWcssQUC3xGIOfCpFu/view?usp=drive_link)
